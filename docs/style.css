@@ -1,0 +1,27 @@
+
+body {
+      background-color: #a7b9d2;
+      color: #3e5a7b;
+      font-family: arial, helvetica, sans-serif; 
+      padding:15px; 
+      line-height:1.4em
+      }
+      
+      nav#menuA {padding:2vw; }
+
+/* This means: style the <nav id="menu"> element. */
+.button { 
+  border:2px; 
+  border-style:solid;
+  border-color:white; 
+  padding:2vw; 
+  background-color:#a7b9d2; 
+  color:blue; 
+  width:10%; 
+  display:inline;
+  border-radius: 20px;
+ }
+ 
+/* This means: style ANY element that as an @class set to button, as in */
+/* <li class="button"> or <p class="button"> or <div class="button">. */
+
