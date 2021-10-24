@@ -19,7 +19,7 @@ body {
   color:blue; 
   width:1%; 
   display:inline;
-  border-radius: 30px;
+  border-radius: 10px;
  }
  
 /* This means: style ANY element that as an @class set to button, as in */
