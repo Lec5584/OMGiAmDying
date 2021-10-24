@@ -25,13 +25,13 @@ body {
 /* This means: style ANY element that as an @class set to button, as in */
 /* <li class="button"> or <p class="button"> or <div class="button">. */
 
-body section.gallery {background-color:#C2DFFF ; background-image: none; padding:0.5em; margin:auto;}
+body section.gallery {background-color:#C2DFFF ; background-image: none; padding:2em; margin:auto;}
 
 /* ebb: This is a comment in CSS: 
  * Notice that the properties I set on the <body> element get passed down to elements inside it. So all my text is the color and font that I set here. 
  * If I want to change the styling of internal elements, I can just enter their names and apply CSS properties to them, following CSS syntax. 
  */
 
-figure {width:30%; margin:auto; padding-top: 1vw; padding-bottom: 1vw;}
+figure {width:30%; margin:auto; padding-top: 0.5vw; padding-bottom: 1vw;}
 figcaption {font-style: italic; font-size: smaller;}
 img.photo {max-width:500px; width:100%}
