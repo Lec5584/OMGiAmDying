@@ -27,6 +27,7 @@ body {
 
 body section.gallery {background-color:#C2DFFF ; background-image: none; padding:2em; margin:auto;}
 
+
 /* ebb: This is a comment in CSS: 
  * Notice that the properties I set on the <body> element get passed down to elements inside it. So all my text is the color and font that I set here. 
  * If I want to change the styling of internal elements, I can just enter their names and apply CSS properties to them, following CSS syntax. 
