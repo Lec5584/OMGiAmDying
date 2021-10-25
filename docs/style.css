@@ -36,7 +36,7 @@ body section.gallery {background-color:#C2DFFF ; background-image: none; padding
 figure {width:30%; margin:auto; padding-top: 0.5vw; padding-bottom: 1vw;}
 figcaption {font-style: italic; font-size: smaller;}
 img.photo {max-width:500px; width:100%}
-
+section.gallery_menu {background-color:#C2DFFF ; background-image: none; padding:2em; margin:auto;}
 section.Corpus_Analysis {background-color:#438D80 ;background-image: none; padding: 2em; margin:auto}
 section.Corpus_Analysis_menu {background-color:#306754; background-image: none; padding: 2em; margin:auto}
 section.Corpus_Analysis {color:#FFFFFF;
