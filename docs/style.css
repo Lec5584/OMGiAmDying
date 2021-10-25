@@ -39,7 +39,7 @@ img.photo {max-width:500px; width:100%}
 section.gallery_menu {background-color:#C2DFFF ; background-image: none; padding:2em; margin:auto;}
 section.Corpus_Analysis {background-color:#438D80 ;background-image: none; padding: 2em; margin:auto}
 section.Corpus_Analysis_menu {background-color:#306754; background-image: none; padding: 2em; margin:auto}
-section.Corpus_Analysis {color:#FFFFFF;
+section.Corpus_Analysis {color:white;
       font-family: arial, helvetica, sans-serif; 
       padding:15px; 
       line-height:1.4em}
