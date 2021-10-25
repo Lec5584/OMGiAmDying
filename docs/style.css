@@ -36,3 +36,5 @@ body section.gallery {background-color:#C2DFFF ; background-image: none; padding
 figure {width:30%; margin:auto; padding-top: 0.5vw; padding-bottom: 1vw;}
 figcaption {font-style: italic; font-size: smaller;}
 img.photo {max-width:500px; width:100%}
+
+body section.Corpus_Analysis {background-color:#C2DFFF; background-image: none; padding: 2em; margin:auto;}
